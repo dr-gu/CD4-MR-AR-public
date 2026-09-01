@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Local data and outputs (not tracked in this repository)
+data/
+results/
+tables/
+figures/
+*.Rdata
+*.qs
+*.csv
+
+# Python
+*.pyc
+__pycache__/
